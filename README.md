@@ -1,4 +1,4 @@
-# PPS-Unidad3Actividad21-Loging-Monitoring
+# PPS-Unidad3Actividad22-Loging-Monitoring
  Registro y monitorización de eventos de seguridad. ELK 
 
 
@@ -794,7 +794,7 @@ Para eliminar los cambios que hemos realizado en esta actividad y volver a dejar
 sudo apt remove --purge fail2ban elasticsearch logstash kibana filebeat -y
 ```
 
-# Resumen
+# ![Resumen](Entrega.md)
 
 - Fail2Ban es una excelente primera línea de defensa contra ataques automatizados.
 
